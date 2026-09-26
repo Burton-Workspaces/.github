@@ -6,6 +6,6 @@ Burton Workspaces is an open-source, MIT-licensed business automation stack you 
 
 Install with one curl on Ubuntu, runs on Postgres and yaml files, in the cloud or on a machine you own, and keep compounding knowledge from conversations, agents, and content without locking it in a proprietary store.
 
-Burton Locations:
-https://burton.work
-https://beta.burton.work
+## Burton Locations:
+- https://burton.work
+- https://beta.burton.work
